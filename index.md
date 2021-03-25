@@ -1,26 +1,27 @@
-Johnny Coder
-============
+Bhargav Jettiboina
+==================
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+E-mail                   bhargavjettiboina@gmail.com
+MyTown                      Andhra Pradesh
+MyCountry                       India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2022 
+:   **B.Tech, Information Technology**; R.V.R and J.C College of Engineering
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016-2019
+:   **Diploma, computer Engineering**; M.B.T.S Govt Ploytechnic College
 
     *Minor: Awesomeology*
+2016
+:   **10TH, SSC Board**; Sri Vijetha High School
 
 Experience
 ----------
@@ -40,7 +41,7 @@ links:
 
 Also with a short description.
 
-Technical Experience
+Technical Skills
 --------------------
 
 My Cool Side Project
